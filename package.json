@@ -1,0 +1,10 @@
+{
+  "name": "kurea-contrib-google",
+  "main": "index.coffee",
+  "version": "0.0.0",
+  "description": "A Google module for Kurea.",
+  "license": "MIT",
+  "dependencies": {
+    "google": "^0.6.0"
+  }
+}
